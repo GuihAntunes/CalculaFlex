@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculaFlex</string>
+    <string name="label_gas">Gasolina</string>
+    <string name="label_ethanol">Etanol</string>
+</resources>
